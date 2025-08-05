@@ -8,7 +8,7 @@ from keras.utils import to_categorical
 
 #Load the data
 (X_train,y_train),(X_test,y_test)=mnist.load_data()
-#print(X_train.shape)
+
 y_test1=y_test
 #normalize the data
 
